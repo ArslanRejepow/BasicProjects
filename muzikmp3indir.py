@@ -62,7 +62,7 @@ class MuzikMp3Indir:
 
 
 Artists = [
-    ['https://muzikmp3indir.com/sanatci-8347-worry-mp3-indir', 'Worry'],
+    ['https://muzikmp3indir.com/sanatci-5414-the-weeknd-mp3-indir', 'The Weeknd'],
 ]
 
 for artist in Artists:
